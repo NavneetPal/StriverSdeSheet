@@ -41,6 +41,4 @@ class Solution {
             }
         }
     }
-}public interface Set Matrix Zeroes {
-    
 }
